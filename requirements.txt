@@ -1,0 +1,4 @@
+requests
+icalendar
+gspread
+google-auth
