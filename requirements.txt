@@ -2,3 +2,4 @@ requests
 icalendar
 gspread
 google-auth
+python-dateutil
